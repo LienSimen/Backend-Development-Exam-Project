@@ -92,12 +92,8 @@ Swagger-ui-express
 Dev:
 Sequelize-cli
 
--
-
 <details>
   <summary>Click here to show Grade + Feedback</summary>
-
-  ## Grade + Feedback
-
+  
   ![image](https://github.com/LienSimen/Backend-Development-Exam-Project/assets/122803724/d0f61b8c-27a6-468c-96c7-360300930520)
 </details>
