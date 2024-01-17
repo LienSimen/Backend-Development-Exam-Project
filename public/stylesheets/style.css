@@ -1,0 +1,64 @@
+body {
+  padding: 25px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* The box around the slider */
+.switch {
+  display: inline-block;
+  height: 17px;
+  position: relative;
+  width: 30px;
+  
+}
+
+/* Hide default checkbox */
+.switch input {
+  display: none;
+}
+
+/* The slider */
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+/* The knob */
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px;
+  width: 13px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: .4s;
+}
+
+/* Making it blue when deleted */
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+/* Adjusting position of knob */
+input:checked + .slider:before {
+  transform: translateX(13px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
