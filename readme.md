@@ -94,20 +94,10 @@ Sequelize-cli
 
 -
 
+<details>
+  <summary>Click here to show Grade + Feedback</summary>
 
-Startup code for Noroff back-end development 1 - EP course (e-commerce).
+  ## Grade + Feedback
 
-Instruction for the course assignment is in the LMS (Moodle) system of Noroff.
-[https://lms.noroff.no](https://lms.noroff.no)
-
-![](http://143.42.108.232/pvt/important.png)
-
-You will not be able to make any submission after the deadline of the course assignment. Make sure to make all your commit **BEFORE** the deadline
-
-![](http://143.42.108.232/pvt/help_small.png)
-
-If you are unsure of any instructions for the course assignment, contact out to your teacher on **Microsoft Teams**.
-
-**REMEMBER** Your Moodle LMS submission must have your repository link **AND** your Github username in the text file.
-
----
+  ![image](https://github.com/LienSimen/Backend-Development-Exam-Project/assets/122803724/d0f61b8c-27a6-468c-96c7-360300930520)
+</details>
